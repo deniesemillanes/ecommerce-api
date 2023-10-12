@@ -1,0 +1,383 @@
+{
+    "name": "",
+    "author": "",
+    "publishedOn":"",
+    "description": "",
+    "price": 450,
+    "stocks": 1,
+    "imageURL": "" 
+}
+
+
+{
+    "name": "The Tell-Tale Heart and Other Writings",
+    "author": "Edgar Allan Poe",
+    "publishedOn":"1843",
+    "description": "A collection featuring three classic horror stories, read by actor Earl Hammond: \"The Tell-Tale Heart\", \"The Cask of Amontillado\", and \"The Black Cat\"",
+    "price": 450,
+    "stocks": 1,
+    "imageURL": "https://www.goodreads.com/book/photo/391729.The_Tell_Tale_Heart_and_Other_Writings"
+}
+
+
+{
+    "name": "The Count of Monte Cristo",
+    "author": "Alexandre Dumas",
+    "publishedOn":"August 28th 1844",
+    "description": "Thrown in prison for a crime he has not committed, Edmond Dantes is confined to the grim fortress of If. There he learns of a great hoard of treasure hidden on the Isle of Monte Cristo and he becomes determined not only to escape, but also to unearth the treasure and use it to plot the destruction of the three men responsible for his incarceration. Dumas’ epic tale of suffering and retribution, inspired by a real-life case of wrongful imprisonment, was a huge popular success when it was first serialized in the 1840s.  \n Robin Buss’s lively English translation is complete and unabridged, and remains faithful to the style of Dumas’s original. This edition includes an introduction, explanatory notes and suggestions for further reading.",
+    "price": 450,
+    "stocks": 1,
+    "imageURL": "https://www.goodreads.com/book/photo/7126.The_Count_of_Monte_Cristo" 
+}
+
+
+{
+    "name": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "publishedOn":"July 11th 1960",
+    "description": "The unforgettable novel of a childhood in a sleepy Southern town and the crisis of conscience that rocked it. \"To Kill A Mockingbird\" became both an instant bestseller and a critical success when it was first published in 1960. It went on to win the Pulitzer Prize in 1961 and was later made into an Academy Award-winning film, also a classic. \n Compassionate, dramatic, and deeply moving, \"To Kill A Mockingbird\" takes readers to the roots of human behavior - to innocence and experience, kindness and cruelty, love and hatred, humor and pathos. Now with over 18 million copies in print and translated into forty languages, this regional story by a young Alabama woman claims universal appeal. Harper Lee always considered her book to be a simple love story. Today it is regarded as a masterpiece of American literature.",
+    "price": 450,
+    "stocks": 1,
+    "imageURL": "https://www.goodreads.com/book/photo/2657.To_Kill_a_Mockingbird" 
+}
+
+
+{
+    "name": "The Perks of Being a Wallflower",
+    "author": "Stephen Chbosky",
+    "publishedOn":"February 1999",
+    "description": "standing on the fringes of life... \n offers a unique perspective. But there comes a time to see \nwhat it looks like from the dance floor. \n This haunting novel about the dilemma of passivity vs. passion marks the stunning debut of a provocative new voice in contemporary fiction: The Perks of Being A WALLFLOWER \n This is the story of what it's like to grow up in high school. More intimate than a diary, Charlie's letters are singular and unique, hilarious and devastating. We may not know where he lives. We may not know to whom he is writing. All we know is the world he shares. Caught between trying to live his life and trying to run from it puts him on a strange course through uncharted territory. The world of first dates and mixed tapes, family dramas and new friends. The world of sex, drugs, and The Rocky Horror Picture Show, when all one requires is that the perfect song on that perfect drive to feel infinite. \n Through Charlie, Stephen Chbosky has created a deeply affecting coming-of-age story, a powerful novel that will spirit you back to those wild and poignant roller coaster days known as growing up.",
+    "price": 450,
+    "stocks": 1,
+    "imageURL": "https://www.goodreads.com/book/photo/22628.The_Perks_of_Being_a_Wallflower" 
+}
+
+
+{
+    "name": "The Notebook",
+    "author": "Nicholas Sparks",
+    "publishedOn":"January 5th 2000",
+    "description": "Set amid the austere beauty of the North Carolina coast begins the story of Noah Calhoun, a rural Southerner recently returned from the Second World War. Noah is restoring a plantation home to its former glory, and he is haunted by images of the beautiful girl he met fourteen years earlier, a girl he loved like no other. Unable to find her, yet unwilling to forget the summer they spent together, Noah is content to live with only memories...until she unexpectedly returns to his town to see him once again. \n Like a puzzle within a puzzle, the story of Noah and Allie is just the beginning. As it unfolds, their tale miraculously becomes something different, with much higher stakes. The result is a deeply moving portrait of love itself, the tender moments and the fundamental changes that affect us all. It is a story of miracles and emotions that will stay with you forever.",
+    "price": 450,
+    "stocks": 1,
+    "imageURL": "https://www.goodreads.com/book/photo/33648131-the-notebook" 
+}
+
+
+{
+    "name": "A Walk to Remember",
+    "author": "Nicholas Sparks",
+    "publishedOn":"May 24th 2000",
+    "description": "There was a time when the world was sweeter...when the women in Beaufort, North Carolina, wore dresses, and the men donned hats...when something happened to a seventeen-year-old boy that would change his life forever. Every April, when the wind blows in from the sea and mingles with the scent of lilacs, Landon Carter remembers his last year at Beaufort High. It was 1958, and Landon had already dated a girl or two. He even swore that he had once been in love. Certainly the last person in town he thought he'd fall for was Jamie Sullivan, the daughter of the town's Baptist minister. A quiet girl who always carried a Bible with her schoolbooks, Jamie seemed content living in a world apart from the other teens. She took care of her widowed father, rescued hurt animals, and helped out at the local orphanage. No boy had ever asked her out. Landon would never have dreamed of it. Then a twist of fate made Jamie his partner for the homecoming dance, and Landon Carter's life would never be the same. Being with Jamie would show him the depths of the human heart and lead him to a decision so stunning it would send him irrevocably on the road to manhood. No other author today touches our emotions more deeply than Nicholas Sparks. \n Illuminating both the strength and the gossamer fragility of our deepest emotions, his two New York Times bestsellers, The Notebook and Message in a Bottle, have establishe him as the leading author of today's most cherished love stories. Now, in A Walk to Remember, he tells a truly unforgettable story, one that glimmers with all of his magic, holding us spellbound-and reminding us that in life each of us may find one great love, the kind that changes everything...",
+    "price": 450,
+    "stocks": 1,
+    "imageURL": "https://www.goodreads.com/book/photo/35545737-a-walk-to-remember" 
+}
+
+
+{
+    "name": "Stargirl",
+    "author": "Jerry Spinelli",
+    "publishedOn":"September 2002",
+    "description": "A celebration of nonconformity; a tense, emotional tale about the fleeting, cruel nature of popularity--and the thrill and inspiration of first love. Ages 12+ \n Leo Borlock follows the unspoken rule at Mica Area High School: don't stand out--under any circumstances! Then Stargirl arrives at Mica High and everything changes--for Leo and for the entire school. After 15 years of home schooling, Stargirl bursts into tenth grade in an explosion of color and a clatter of ukulele music, enchanting the Mica student body. \n But the delicate scales of popularity suddenly shift, and Stargirl is shunned for everything that makes her different. Somewhere in the midst of Stargirl's arrival and rise and fall, normal Leo Borlock has tumbled into love with her. \n In a celebration of nonconformity, Jerry Spinelli weaves a tense, emotional tale about the fleeting, cruel nature of popularity--and the thrill and inspiration of first love.",
+    "price": 450,
+    "stocks": 1,
+    "imageURL": "https://www.goodreads.com/book/photo/22232.Stargirl" 
+}
+
+
+{
+    "name": "An Abundance of Katherines",
+    "author": "John Green",
+    "publishedOn":" September 21st 2006",
+    "description": "Katherine V thought boys were gross \n Katherine X just wanted to be friends \n Katherine XVIII dumped him in an e-mail \n K-19 broke his heart \n When it comes to relationships, Colin Singleton's type happens to be girls named Katherine. And when it comes to girls named Katherine, Colin is always getting dumped. Nineteen times, to be exact. \n On a road trip miles from home, this anagram-happy, washed-up child prodigy has ten thousand dollars in his pocket, a bloodthirsty feral hog on his trail, and an overweight, Judge Judy-loving best friend riding shotgun--but no Katherines. Colin is on a mission to prove The Theorem of Underlying Katherine Predictability, which he hopes will predict the future of any relationship, avenge Dumpees everywhere, and finally win him the girl. \n Love, friendship, and a dead Austro-Hungarian archduke add up to surprising and heart-changing conclusions in this ingeniously layered comic novel about reinventing oneself.",
+    "price": 450,
+    "stocks": 1,
+    "imageURL": "https://www.goodreads.com/book/photo/15707124-an-abundance-of-katherines" 
+}
+
+
+{
+    "name": "Looking for Alaska",
+    "author": "John Green",
+    "publishedOn":"December 28th 2006",
+    "description": "Before. Miles “Pudge” Halter is done with his safe life at home. His whole life has been one big non-event, and his obsession with famous last words has only made him crave “the Great Perhaps” even more (Francois Rabelais, poet). He heads off to the sometimes crazy and anything-but-boring world of Culver Creek Boarding School, and his life becomes the opposite of safe. Because down the hall is Alaska Young. The gorgeous, clever, funny, sexy, self-destructive, screwed up, and utterly fascinating Alaska Young. She is an event unto herself. She pulls Pudge into her world, launches him into the Great Perhaps, and steals his heart. Then. . . . \n After. Nothing is ever the same.",
+    "price": 450,
+    "stocks": 1,
+    "imageURL": "https://www.goodreads.com/book/photo/99561.Looking_for_Alaska" 
+}
+
+
+{
+    "name": "Thirteen Reasons Why",
+    "author": "Jay Asher",
+    "publishedOn":"October 18th 2007",
+    "description": "You can’t stop the future. \n You can’t rewind the past. \n The only way to learn the secret . . . is to press play. \n Clay Jensen returns home from school to find a strange package with his name on it lying on his porch. Inside he discovers several cassette tapes recorded by Hannah Baker–his classmate and crush–who committed suicide two weeks earlier. Hannah’s voice tells him that there are thirteen reasons why she decided to end her life. Clay is one of them. If he listens, he’ll find out why. \n Clay spends the night crisscrossing his town with Hannah as his guide. He becomes a firsthand witness to Hannah’s pain, and as he follows Hannah’s recorded words throughout his town, what he discovers changes his life forever. ",
+    "price": 450,
+    "stocks": 1,
+    "imageURL": "https://www.goodreads.com/book/photo/1217100.Thirteen_Reasons_Why" 
+}
+
+
+{
+    "name": "The Hunger Games",
+    "author": "Suzanne Collins",
+    "publishedOn":"October 14th 2008",
+    "description": "Could you survive on your own in the wild, with every one out to make sure you don't live to see the morning? \n In the ruins of a place once known as North America lies the nation of Panem, a shining Capitol surrounded by twelve outlying districts. The Capitol is harsh and cruel and keeps the districts in line by forcing them all to send one boy and one girl between the ages of twelve and eighteen to participate in the annual Hunger Games, a fight to the death on live TV.\n Sixteen-year-old Katniss Everdeen, who lives alone with her mother and younger sister, regards it as a death sentence when she steps forward to take her sister's place in the Games. But Katniss has been close to dead before—and survival, for her, is second nature. Without really meaning to, she becomes a contender. But if she is to win, she will have to start making choices that weight survival against humanity and life against love.",
+    "price": 450,
+    "stocks": 1,
+    "imageURL": "https://www.goodreads.com/book/photo/2767052-the-hunger-games" 
+}
+
+
+{
+    "name": "Paper Towns",
+    "author": "John Green",
+    "publishedOn":"September 22nd 2009",
+    "description": "Who is the real Margo? \n Quentin Jacobsen has spent a lifetime loving the magnificently adventurous Margo Roth Spiegelman from afar. So when she cracks open a window and climbs into his life—dressed like a ninja and summoning him for an ingenious campaign of revenge—he follows. After their all-nighter ends, and a new day breaks, Q arrives at school to discover that Margo, always an enigma, has now become a mystery. But Q soon learns that there are clues—and they're for him. Urged down a disconnected path, the closer he gets, the less Q sees the girl he thought he knew...",
+    "price": 450,
+    "stocks": 1,
+    "imageURL": "https://www.goodreads.com/book/photo/6442769-paper-towns" 
+}
+
+
+{
+    "name": "Will Grayson, Will Grayson",
+    "author": ["John Green", "David Levithan"],
+    "publishedOn":"April 6th 2010",
+    "description": "Will Grayson meets Will Grayson. One cold night, in a most unlikely corner of Chicago, two strangers are about to cross paths. From that moment on, their world will collide and lives intertwine. \n It's not that far from Evanston to Naperville, but Chicago suburbanites Will Grayson and Will Grayson might as well live on different planets. When fate delivers them both to the same surprising crossroads, the Will Graysons find their lives overlapping and hurtling in new and unexpected directions. With a push from friends new and old - including the massive, and massively fabulous, Tiny Cooper, offensive lineman and musical theater auteur extraordinaire - Will and Will begin building toward respective romantic turns-of-heart and the epic production of history's most awesome high school musical.",
+    "price": 450,
+    "stocks": 1,
+    "imageURL": "https://www.goodreads.com/book/photo/6567017-will-grayson-will-grayson" 
+}
+
+
+{
+    "name": "Anna and the French Kiss",
+    "author": "Stephanie Perkins",
+    "publishedOn":"December 2nd 2010",
+    "description": "Anna is looking forward to her senior year in Atlanta, where she has a great job, a loyal best friend, and a crush on the verge of becoming more. Which is why she is less than thrilled about being shipped off to boarding school in Paris--until she meets Étienne St. Clair. Smart, charming, beautiful, Étienne has it all...including a serious girlfriend.\n But in the City of Light, wishes have a way of coming true. Will a year of romantic near-misses end with their long-awaited French kiss?",
+    "price": 450,
+    "stocks": 1,
+    "imageURL": "https://www.goodreads.com/book/photo/6936382-anna-and-the-french-kiss" 
+}
+
+
+{
+    "name": "Divergent",
+    "author": "Veronica Roth",
+    "publishedOn":"April 25th 2011",
+    "description": "In Beatrice Prior's dystopian Chicago world, society is divided into five factions, each dedicated to the cultivation of a particular virtue—Candor (the honest), Abnegation (the selfless), Dauntless (the brave), Amity (the peaceful), and Erudite (the intelligent). On an appointed day of every year, all sixteen-year-olds must select the faction to which they will devote the rest of their lives. For Beatrice, the decision is between staying with her family and being who she really is—she can't have both. So she makes a choice that surprises everyone, including herself. \n During the highly competitive initiation that follows, Beatrice renames herself Tris and struggles alongside her fellow initiates to live out the choice they have made. Together they must undergo extreme physical tests of endurance and intense psychological simulations, some with devastating consequences. As initiation transforms them all, Tris must determine who her friends really are—and where, exactly, a romance with a sometimes fascinating, sometimes exasperating boy fits into the life she's chosen. But Tris also has a secret, one she's kept hidden from everyone because she's been warned it can mean death. And as she discovers unrest and growing conflict that threaten to unravel her seemingly perfect society, she also learns that her secret might help her save those she loves . . . or it might destroy her.",
+    "price": 450,
+    "stocks": 1,
+    "imageURL": "https://www.goodreads.com/book/photo/13335037-divergent" 
+}
+
+
+{
+    "name": "The Best of Me",
+    "author": "Nicholas Sparks",
+    "publishedOn":"May 24th 2000",
+    "description": "In the spring of 1984, high school students Amanda Collier and Dawson Cole fell deeply, irrevocably in love. But as the summer of their senior year came to a close, unforeseen events would tear the young couple apart, setting them on radically divergent paths. \n Now, twenty-five years later, Amanda and Dawson are summoned back to Oriental for the funeral of Tuck Hostetler, the mentor who once gave shelter to their high school romance. Neither has lived the life they imagined. \n As Amanda and Dawson carry out the instructions Tuck left behind for them, they realize that everything they thought they knew was not as it seemed. Forced to confront painful memories, the two former lovers will discover undeniable truths about the choices they have made. And in the course of a single, searing weekend, they will ask of the living, and the dead: Can love truly rewrite the past?",
+    "price": 450,
+    "stocks": 1,
+    "imageURL": "https://www.goodreads.com/book/photo/10766509-the-best-of-me" 
+}
+
+
+{
+    "name": "The Statistical Probability of Love at First Sight",
+    "author": "Jennifer E. Smith",
+    "publishedOn":"January 2nd 2012",
+    "description": "Who would have guessed that four minutes could change everything? \n Today should be one of the worst days of seventeen-year-old Hadley Sullivan's life. Having missed her flight, she's stuck at JFK airport and late to her father's second wedding, which is taking place in London and involves a soon-to-be stepmother Hadley's never even met. Then she meets the perfect boy in the airport's cramped waiting area. His name is Oliver, he's British, and he's sitting in her row. \n A long night on the plane passes in the blink of an eye, and Hadley and Oliver lose track of each other in the airport chaos upon arrival. Can fate intervene to bring them together once more? \n Quirks of timing play out in this romantic and cinematic novel about family connections, second chances, and first loves. Set over a twenty-four-hour-period, Hadley and Oliver's story will make you believe that true love finds you when you're least expecting it.",
+    "price": 450,
+    "stocks": 1,
+    "imageURL": "https://www.goodreads.com/book/photo/10798416-the-statistical-probability-of-love-at-first-sight" 
+}
+
+
+{
+    "name": "The Fault in Our Stars",
+    "author": "John Green",
+    "publishedOn":"January 10th 2012",
+    "description": "Despite the tumor-shrinking medical miracle that has bought her a few years, Hazel has never been anything but terminal, her final chapter inscribed upon diagnosis. But when a gorgeous plot twist named Augustus Waters suddenly appears at Cancer Kid Support Group, Hazel's story is about to be completely rewritten. \n Insightful, bold, irreverent, and raw, The Fault in Our Stars is award-winning author John Green's most ambitious and heartbreaking work yet, brilliantly exploring the funny, thrilling, and tragic business of being alive and in love.",
+    "price": 450,
+    "stocks": 1,
+    "imageURL": "https://www.goodreads.com/book/photo/11870085-the-fault-in-our-stars" 
+}
+
+
+{
+    "name": "Eleanor & Park",
+    "author": "Rainbow Rowell",
+    "publishedOn":"April 12th 2012",
+    "description": "Set over one school year in 1986, Eleanor & Park is the story of two star-crossed misfits – smart enough to know first love almost never lasts, but brave and desperate enough to try.",
+    "price": 450,
+    "stocks": 1,
+    "imageURL": "https://www.goodreads.com/book/photo/30078661-eleanor-park" 
+}
+
+
+{
+    "name": "The Selection",
+    "author": "Kiera Cass",
+    "publishedOn":"April 24th 2012",
+    "description": "For thirty-five girls, the Selection is the chance of a lifetime. The opportunity to escape the life laid out for them since birth. To be swept up in a world of glittering gowns and priceless jewels. To live in a palace and compete for the heart of gorgeous Prince Maxon. \n But for America Singer, being Selected is a nightmare. It means turning her back on her secret love with Aspen, who is a caste below her. Leaving her home to enter a fierce competition for a crown she doesn't want. Living in a palace that is constantly threatened by violent rebel attacks.\n Then America meets Prince Maxon. Gradually, she starts to question all the plans she's made for herself—and realizes that the life she's always dreamed of may not compare to a future she never imagined.",
+    "price": 450,
+    "stocks": 1,
+    "imageURL": "https://www.goodreads.com/book/photo/10507293-the-selection" 
+}
+
+
+{
+    "name": "Insurgent",
+    "author": "Veronica Roth",
+    "publishedOn":"May 1st 2012",
+    "description": "One choice can transform you—or it can destroy you. But every choice has consequences, and as unrest surges in the factions all around her, Tris Prior must continue trying to save those she loves—and herself—while grappling with haunting questions of grief and forgiveness, identity and loyalty, politics and love. \n Tris's initiation day should have been marked by celebration and victory with her chosen faction; instead, the day ended with unspeakable horrors. War now looms as conflict between the factions and their ideologies grows. And in times of war, sides must be chosen, secrets will emerge, and choices will become even more irrevocable—and even more powerful. Transformed by her own decisions but also by haunting grief and guilt, radical new discoveries, and shifting relationships, Tris must fully embrace her Divergence, even if she does not know what she may lose by doing so.\n New York Times bestselling author Veronica Roth's much-anticipated second book of the dystopian DIVERGENT series is another intoxicating thrill ride of a story, rich with hallmark twists, heartbreaks, romance, and powerful insights about human nature.",
+    "price": 450,
+    "stocks": 1,
+    "imageURL": "https://www.goodreads.com/book/photo/11735983-insurgent" 
+}
+
+
+{
+    "name": "Every Day",
+    "author": "David Levithan",
+    "publishedOn":"August 28th 2012",
+    "description": "Every day a different body. Every day a different life. Every day in love with the same girl. \n There’s never any warning about where it will be or who it will be. A has made peace with that, even established guidelines by which to live: Never get too attached. Avoid being noticed. Do not interfere. \n It’s all fine until the morning that A wakes up in the body of Justin and meets Justin’s girlfriend, Rhiannon. From that moment, the rules by which A has been living no longer apply. Because finally A has found someone A wants to be with—day in, day out, day after day. ",
+    "price": 450,
+    "stocks": 1,
+    "imageURL": "https://www.goodreads.com/book/photo/13262783-every-day" 
+}
+
+
+{
+    "name": "This Is What Happy Looks Like",
+    "author": "Jennifer E. Smith",
+    "publishedOn":"April 2nd 2013",
+    "description": "If fate sent you an email, would you answer? \n When teenage movie star Graham Larkin accidentally sends small town girl Ellie O'Neill an email about his pet pig, the two seventeen-year-olds strike up a witty and unforgettable correspondence, discussing everything under the sun, except for their names or backgrounds.\n Then Graham finds out that Ellie's Maine hometown is the perfect location for his latest film, and he decides to take their relationship from online to in-person. But can a star as famous as Graham really start a relationship with an ordinary girl like Ellie? And why does Ellie want to avoid the media's spotlight at all costs?",
+    "price": 450,
+    "stocks": 1,
+    "imageURL": "https://www.goodreads.com/book/photo/15790873-this-is-what-happy-looks-like" 
+}
+
+
+{
+    "name": "The Geography of You and Me",
+    "author": "Jennifer E. Smith",
+    "publishedOn":"April 15th 2014",
+    "description": "Lucy and Owen meet somewhere between the tenth and eleventh floors of a New York City apartment building, on an elevator rendered useless by a citywide blackout. After they’re rescued, they spend a single night together, wandering the darkened streets and marveling at the rare appearance of stars above Manhattan. But once the power is restored, so is reality. Lucy soon moves to Edinburgh with her parents, while Owen heads out west with his father. \n Lucy and Owen’s relationship plays out across the globe as they stay in touch through postcards, occasional e-mails, and—finally—a reunion in the city where they first met. \n A carefully charted map of a long-distance relationship, Jennifer E. Smith’s new novel shows that the center of the world isn't necessarily a place. It can be a person, too.",
+    "price": 450,
+    "stocks": 1,
+    "imageURL": "https://www.goodreads.com/book/photo/15790873-this-is-what-happy-looks-like" 
+}
+
+
+{
+    "name": "Milk and Honey",
+    "author": "Rupi Kaur",
+    "publishedOn":"November 4th 2014",
+    "description": "Milk and honey' is a collection of poetry and prose about survival. About the experience of violence, abuse, love, loss, and femininity. It is split into four chapters, and each chapter serves a different purpose. Deals with a different pain. Heals a different heartache. 'milk and honey' takes readers through a journey of the most bitter moments in life and finds sweetness in them because there is sweetness everywhere if you are just willing to look.",
+    "price": 450,
+    "stocks": 1,
+    "imageURL": "https://www.goodreads.com/book/photo/23513349-milk-and-honey" 
+}
+
+
+{
+    "name": "The Princess Saves Herself in This One",
+    "author": "Amanda Lovelace",
+    "publishedOn":"April 23rd 2016",
+    "description": "Ah, life- the thing that happens to us while we're off somewhere else blowing on dandelions & wishing ourselves into the pages of our favorite fairy tales. \n A poetry collection divided into four different parts: the princess, the damsel, the queen, & you. the princess, the damsel, & the queen piece together the life of the author in three stages, while you serves as a note to the reader & all of humankind. Explores life & all of its love, loss, grief, healing, empowerment, & inspirations.",
+    "price": 450,
+    "stocks": 1,
+    "imageURL": "https://www.goodreads.com/book/photo/30075802-the-princess-saves-herself-in-this-one" 
+}
+
+
+{
+    "name": "The Sun and Her Flowers",
+    "author": "Rupi Kaur ",
+    "publishedOn":"October 3rd 2017",
+    "description": "From Rupi Kaur, the #1 New York Times bestselling author of milk and honey, comes her long-awaited second collection of poetry. A vibrant and transcendent journey about growth and healing. Ancestry and honoring one’s roots. Expatriation and rising up to find a home within yourself. \n Divided into five chapters and illustrated by Kaur, the sun and her flowers is a journey of wilting, falling, rooting, rising, and blooming. A celebration of love in all its forms. \n this is the recipe of life \n said my mother \n as she held me in her arms as i wept \n think of those flowers you plant \n in the garden each year \n they will teach you \n that people too \n must wilt \n fall \n root \n rise \n in order to bloom",
+    "price": 450,
+    "stocks": 1,
+    "imageURL": "https://www.goodreads.com/book/photo/35606560-the-sun-and-her-flowers" 
+}
+
+
+{
+    "name": "The Midnight Library",
+    "author": "Matt Haig",
+    "publishedOn":"September 29th 2020",
+    "description": "Between life and death there is a library, and within that library, the shelves go on forever. Every book provides a chance to try another life you could have lived. To see how things would be if you had made other choices . . . Would you have done anything different, if you had the chance to undo your regrets? \n A dazzling novel about all the choices that go into a life well lived, from the internationally bestselling author of Reasons to Stay Alive and How To Stop Time. \n Somewhere out beyond the edge of the universe there is a library that contains an infinite number of books, each one the story of another reality. One tells the story of your life as it is, along with another book for the other life you could have lived if you had made a different choice at any point in your life. While we all wonder how our lives might have been, what if you had the chance to go to the library and see for yourself? Would any of these other lives truly be better? \n In The Midnight Library, Matt Haig’s enchanting new novel, Nora Seed finds herself faced with this decision. Faced with the possibility of changing her life for a new one, following a different career, undoing old breakups, realizing her dreams of becoming a glaciologist; she must search within herself as she travels through the Midnight Library to decide what is truly fulfilling in life, and what makes it worth living in the first place.",
+    "price": 450,
+    "stocks": 1,
+    "imageURL": "https://www.goodreads.com/book/photo/52578297-the-midnight-library" 
+}
+
+
+{
+    "name": "The Spanish Love Deception",
+    "author": "Elena Armas",
+    "publishedOn":"February 23rd 2021",
+    "description": "A wedding. A trip to Spain. The most infuriating man. And three days of pretending. Or in other words, a plan that will never work. \n Catalina Martín, finally, not single. Her family is happy to announce that she will bring her American boyfriend to her sister’s wedding. Everyone is invited to come and witness the most magical event of the year. \n That would certainly be tomorrow’s headline in the local newspaper of the small Spanish town I came from. Or the epitaph on my tombstone, seeing the turn my life had taken in the span of a phone call. \n Four weeks wasn’t a lot of time to find someone willing to cross the Atlantic–from NYC and all the way to Spain–for a wedding. Let alone, someone eager to play along my charade. But that didn’t mean I was desperate enough to bring the 6’4 blue eyed pain in my ass standing before me. \n Aaron Blackford. The man whose main occupation was making my blood boil had just offered himself to be my date. Right after inserting his nose in my business, calling me delusional, and calling himself my best option. See? Outrageous. Aggravating. Blood boiling. And much to my total despair, also right. Which left me with a surly and extra large dilemma in my hands. Was it worth the suffering to bring my colleague and bane of my existence as my fake boyfriend to my sister’s wedding? Or was I better off coming clean and facing the consequences of my panic induced lie? \n Like my abuela would say, que dios nos pille confesados. \n The Spanish Love Deception is an enemies-to-lovers, fake-dating romantic comedy. Perfect for those looking for a steamy slow-burn romance with the sweetest Happily Ever After.",
+    "price": 450,
+    "stocks": 1,
+    "imageURL": "https://www.goodreads.com/book/photo/54189398-the-spanish-love-deception" 
+}
+
+
+{
+    "name": "People We Meet on Vacation",
+    "author": "Emily Henry",
+    "publishedOn":"May 11th 2021",
+    "description": "Two best friends. Ten summer trips. One last chance to fall in love. \n Poppy and Alex. Alex and Poppy. They have nothing in common. She’s a wild child; he wears khakis. She has insatiable wanderlust; he prefers to stay home with a book. And somehow, ever since a fateful car share home from college many years ago, they are the very best of friends. For most of the year they live far apart—she’s in New York City, and he’s in their small hometown—but every summer, for a decade, they have taken one glorious week of vacation together. \n Until two years ago, when they ruined everything. They haven’t spoken since. \n Poppy has everything she should want, but she’s stuck in a rut. When someone asks when she was last truly happy, she knows, without a doubt, it was on that ill-fated, final trip with Alex. And so, she decides to convince her best friend to take one more vacation together—lay everything on the table, make it all right. Miraculously, he agrees. \n Now she has a week to fix everything. If only she can get around the one big truth that has always stood quietly in the middle of their seemingly perfect relationship. What could possibly go wrong? \n From the New York Times bestselling author of Beach Read, a sparkling new novel that will leave you with the warm, hazy afterglow usually reserved for the best vacations.",
+    "price": 450,
+    "stocks": 1,
+    "imageURL": "https://www.goodreads.com/book/photo/54985743-people-we-meet-on-vacation" 
+}
+
+
+{
+    "name": "The Cheat Sheet",
+    "author": "Sarah Adams",
+    "publishedOn":"August 17th 2021",
+    "description": "Is it ever too late to leave the friend-zone? \n Hi, my name is Bree Camden, and I’m hopelessly in love with my best friend and star quarterback Nathan Donelson (so is half of America, judging by the tabloids and how much the guy dates). The first step is admitting, right? Except, I can never admit it to him because he clearly doesn’t see me that way, and the last thing I want is for things to get weird between us. \n Nothing but good old-fashioned, no-touching-the-sexiest-man-alive, platonic friendship for us! Everything is exactly how I like it! Yes. Good. (I’m not crying, I’m just peeling an onion.) \n Our friendship is going swimmingly until I accidentally spill my beans to a reporter over too much tequila, and now the world seems to think me and Nathan belong together. Oh, and did I mention we have to date publicly for three weeks until after the Super Bowl because we signed a contract with...oops, forgot I can’t tell anyone about that! \n Bottom line is, now my best friend is smudging all the lines and acting very un-platonic, and I’m just trying to keep my body from bursting into flames every time he touches me. \n How am I going to make it through three weeks of fake dating Nathan without anything changing between us? Especially when it almost-sort-a-kinda seems like he’s fighting for a completely different outcome? \n Send help. \n XO Bree ",
+    "price": 450,
+    "stocks": 1,
+    "imageURL": "https://www.goodreads.com/book/photo/58100280-the-cheat-sheet" 
+}
+
+
+{
+    "name": "",
+    "author": "",
+    "publishedOn":"",
+    "description": "",
+    "price": 450,
+    "stocks": 1,
+    "imageURL": "" 
+}
+
+
+{
+    "name": "",
+    "author": "",
+    "publishedOn":"",
+    "description": "",
+    "price": 450,
+    "stocks": 1,
+    "imageURL": "" 
+}
+
+
+{
+    "name": "",
+    "author": "",
+    "publishedOn":"",
+    "description": "",
+    "price": 450,
+    "stocks": 1,
+    "imageURL": "" 
+}

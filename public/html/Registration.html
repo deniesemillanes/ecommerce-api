@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Registration Form</title>
+        <link rel="stylesheet" href="./style.css">
+    </head>
+
+    <body>
+    <div class="wrapper">    
+        <h2>Registration Forms</h2>
+        <p><em>Welcome! Enter your details below</em></p>
+
+        <form action="">
+            <div class="inputWrapper">     
+                <label for="first_name">First Name:</label>
+                <input type="text" name="first_name" id="first_name" required autocomplete> <br>
+            </div>
+
+            <div class="inputWrapper"> 
+                <label for="last_name">Last Name:</label>
+                <input type="text" name="last_namee" id="last_name" required autocomplete> <br>
+            </div>
+
+            <div class="inputWrapper">     
+                <label for="email">Email</label>
+                <input type="email" id="email" required autocomplete> <br>
+            </div>               
+               
+            <div class="inputWrapper"> 
+                <label for="birth_date">Birth Date</label>
+                <input type="date" name="birth_date" id="birth_date" required> <br>
+            </div>
+
+            <div class="inputWrapper">     
+                <label for="gender">Gender:</label>
+                    <select name="gender" id="gender">
+                        <option value="Male">Male</option>
+                        <option value="Female">Female</option>
+                        <option value="Others">Others</option>
+                    </select> <br>
+            </div>
+
+            <button type="submit" class="registerButton">Register</button>	
+    </form>
+    </div>
+    </body>
+</html>

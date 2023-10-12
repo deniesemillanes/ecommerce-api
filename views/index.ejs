@@ -1,0 +1,225 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/css/bootstrap.min.css" integrity="sha384-zCbKRCUGaJDkqS1kPbPd7TveP5iyJE0EjAuZQTgFLD2ylzuqKfdKlfG/eSrtxUkn" crossorigin="anonymous">
+    <title>E-commerce API MVP</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Fredoka&display=swap" rel="stylesheet">
+<script src="https://kit.fontawesome.com/b5fd6fdb4f.js" crossorigin="anonymous"></script>
+<script src="https://code.iconify.design/2/2.1.2/iconify.min.js"></script>
+    <link href="/css/style.css" rel="stylesheet" type="text/css">
+    <%- include("indexstyle") %>
+</head>
+
+<body>
+    <!-- Start Navbar -->
+    <nav class="navbar fixed-top navbar-light bg-light">
+        <a class="navbar-brand" href="/">
+            <img src="https://www.svgrepo.com/show/396892/letter-d.svg" width="30" height="30" class="d-inline-block align-top" alt="">
+            The Den
+        </a>
+    </nav>
+    <!-- End Navbar -->
+    <div class ="landing">
+        <h1 class="d-block p-2">Capstone 2: E-commerce API MVP</h1>
+<ul class="a list-group">
+  <li class="list-group-item active">Requirements</li>
+<div class="container">
+  <div class="row">
+    <div class="col">User Registration</div>
+    <div class="col">User Authentication</div>
+    <div class="w-100"></div>
+    <div class="col">Set User as Admin (Admin only)</div>
+    <div class="col">Retrieve All Active Products</div>
+    <div class="w-100"></div>
+    <div class="col">Retrieve Single Product</div>
+    <div class="col">Create Product (Admin only)</div>
+    <div class="w-100"></div>
+    <div class="col">Update Product Information (Admin only)</div>
+    <div class="col">Archive Product (Admin only)</div>
+    <div class="w-100"></div>
+    <div class="col">Non-Admin User Checkout (Create Order)</div>
+    <div class="col">Retrieve Authenticated User’s Orders</div>
+    <div class="w-100"></div>
+    <div class="col">Retrieve All Orders (Admin only)</div>
+  </div>
+</div>
+<div class="container">
+  <div class="row">
+    <div class="col">**Front End is Optional</div>
+</div> <br>
+<div class="list active">
+    <h3 p-2> Technologies Used: </h3>
+        <div class="d-block p-2">   
+        <i class="fab fa-html5 "></i>
+        <p style="color:black">HTML 5</p>
+        </div>
+
+        <div class="d-block p-2">
+        <i class="fa-brands fa-css3-alt "></i>
+        <p style="color:black">CSS 3</p>
+        </div>
+
+        <div class="d-block p-2">
+        <i class="fa-brands fa-bootstrap "></i>
+        <p style="color:black">Bootstrap</p>
+        </div>
+
+        <div class="d-block p-2">
+        <i class="fa-solid fa-database "></i>
+        <p style="color:black">MongoDB Atlas</p>
+        </div>
+                <div class="d-block p-2">
+        <i class="iconify" data-icon="simple-icons:heroku" style="color: #FFFFFF;" ></i>
+        <p style="color:black">Heroku</p>
+        </div>
+
+        <div class="d-block p-2">
+        <i class="iconify" data-icon="cib:postman" style="color: #FFFFFF;"></i>
+        <p style="color:black">Postman</p>
+        </div>
+
+        <div class="d-block p-2">
+        <i class="iconify" data-icon="simple-icons:sublimetext" style="color: white;"></i>
+        <p style="color:black">Sublime</p>
+        </div>
+
+</div>
+
+</ul>
+
+
+        
+</div>
+
+    <!-- Start Index Body -->
+    <!--1-->
+    <div id="register" class="card">
+        <h5 class="card-header">User Registration</h5>
+        <div class="card-body">
+            <h5 class="card-title">/users/register</h5>
+            <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>
+            <a href="/users/register" class="btn btn-primary">Register</a>
+        </div>
+    </div>
+    <!--1-->
+    <!--1-->
+    <div id="login" class="card">
+        <h5 class="card-header">User Authentication</h5>
+        <div class="card-body">
+            <h5 class="card-title">/users/login</h5>
+            <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>
+            <a href="/users/login" class="btn btn-primary">Log In</a>
+        </div>
+    </div>
+    <!--1-->
+    <!--1-->
+    <div id="setAsAdmin" class="card">
+        <h5 class="card-header">Set User as Admin (Admin only)</h5>
+        <div class="card-body">
+            <h5 class="card-title">/:userId/setAsAdmin</h5>
+            <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>
+            <a href="/setAsAdmin" class="btn btn-primary">Set User as Admin</a>
+        </div>
+    </div>
+    <!--1-->
+    <!--1-->
+    <div id="getAllActiveProducts" class="card">
+        <h5 class="card-header">Retrieve All Active Products</h5>
+        <div class="card-body">
+            <h5 class="card-title">/products</h5>
+            <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>
+            <a href="/products" class="btn btn-primary">All Active Products</a>
+        </div>
+    </div>
+    <!--1-->
+    <!--1-->
+    <div id="getProduct" class="card">
+        <h5 class="card-header">Retrieve Single Product</h5>
+        <div class="card-body">
+            <h5 class="card-title">/products/:productId</h5>
+            <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>
+            <a href="/products/:productId" class="btn btn-primary">Go somewhere</a>
+        </div>
+    </div>
+    <!--1--> 
+    <!--1-->
+    <div id="createProduct" class="card">
+        <h5 class="card-header">Create Product (Admin only)</h5>
+        <div class="card-body">
+            <h5 class="card-title">/products</h5>
+            <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>
+            <a href="/products" class="btn btn-primary">Create Product</a>
+        </div>
+    </div>
+    <!--1-->
+    <!--1-->
+    <div id="updateProduct" class="card">
+        <h5 class="card-header">Update Product Information (Admin only)</h5>
+        <div class="card-body">
+            <h5 class="card-title">/products/:productId</h5>
+            <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>
+            <a href="/products/:productId" class="btn btn-primary">Go somewhere</a>
+        </div>
+    </div>
+    <!--1-->
+    <!--1-->
+    <div id="archiveProduct" class="card">
+        <h5 class="card-header">Archive Product (Admin only)</h5>
+        <div class="card-body">
+            <h5 class="card-title">/products/:productId/archive</h5>
+            <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>
+            <a href="/products/:productId/archive" class="btn btn-primary">Go somewhere</a>
+        </div>
+    </div>
+    <!--1-->
+    <!--1-->
+    <div id="order" class="card">
+        <h5 class="card-header">Non-Admin User Checkout (Create Order)</h5>
+        <div class="card-body">
+            <h5 class="card-title">/users/checkout</h5>
+            <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>
+            <a href="/users/checkout" class="btn btn-primary">Go somewhere</a>
+        </div>
+    </div>
+    <!--1-->
+    <!--1-->
+    <div id="myOrders" class="card">
+        <h5 class="card-header">Retrieve Authenticated User’s Orders</h5>
+        <div class="card-body">
+            <h5 class="card-title">/users/myOrders</h5>
+            <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>
+            <a href="/users/myOrders" class="btn btn-primary">Go somewhere</a>
+        </div>
+    </div>
+    <!--1-->
+    <!--1-->
+    <div id="allOrder" class="card">
+        <h5 class="card-header">Retrieve All Orders (Admin only)</h5>
+        <div class="card-body">
+            <h5 class="card-title">/users/orders</h5>
+            <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>
+            <a href="/users/orders" class="btn btn-primary">Go somewhere</a>
+        </div>
+    </div>
+    <!--1-->
+    <!-- End Index Body -->
+    <!-- Option 1: jQuery and Bootstrap Bundle (includes Popper) -->
+    <script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-fQybjgWLrvvRgtW6bFlB7jaZrFsaBXjsOMm/tB9LTS58ONXgqbR9W8oWht/amnpF" crossorigin="anonymous"></script>
+    <!-- Start Footer -->
+    <footer class="fixed-bottom p-1">
+        <div align="left">
+            Copyright © 1999-2022
+        </div>
+    </footer>
+    <!-- End Footer -->
+</body>
+
+</html>

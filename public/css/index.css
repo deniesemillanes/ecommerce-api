@@ -1,0 +1,12 @@
+<style>
+body {
+  background-image: url("bg.png");
+  
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  
+  background-size: cover;
+}
+
+</style>

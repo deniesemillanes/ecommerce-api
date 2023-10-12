@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Log In</title>
+        <link rel="stylesheet" href="./style-login.css">
+    </head>
+    <body>
+    <!-- Start Navbar -->
+    <nav>  
+      <div class="logo"><a href="#">Atos</a></div>  
+      <div class="search">  
+            <a href=""><input type="text" placeholder="search products" id="input">  
+              <ion-icon class="s" name="search"></ion-icon>  
+            </a>  
+      </div>  
+      <div class="heading">  
+            <ul>  
+              <li><a href="./index.html" class="under">HOME</a></li>  
+              <li><a href="./products.html" class="under">PRODUCTS</a></li>  
+              <li><a href="./Login Form.html" class="under">LOG IN</a></li>  
+              <li><a href="#" class="under">CONTACT US</a></li>  
+            </ul>  
+      </div>  
+    </nav> 
+    <!-- End Navbar -->        
+			<div class="wrapper">  
+				<h1 class="header">LogIn</h1>  
+		    	<p class="headerText"><em>Enter your details to login</em></p>  
+			<form action="http://localhost:4072/users/login" method="POST">  
+			   <div class="inputWrapper">  
+                    <label for="email">E-mail</label>  
+                    <input id="email" type="email" autocomplete="off" required>  
+			   </div>  
+			   <div class="inputWrapper">  
+                    <label for="password">Password</label>  
+                    <input id="password" type="password" autocomplete="off" required>  
+               </div>                     
+			   <button type="submit" class="registerButton">Login</button> 
+			</form> 
+			</div>  
+    <!-- Start Footer -->
+    <footer>  
+         <div class="footer0">  
+           <h1>Atos</h1>  
+         </div>  
+         <div class="footer3">Copyright © <h4>Atos</h4>1999-2022</div>  
+       </footer>  
+    <!-- End Footer --> 
+    </body>
+</html>
